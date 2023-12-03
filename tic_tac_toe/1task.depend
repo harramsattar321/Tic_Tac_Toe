@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1688566885 source:d:\me\1task\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+
+1688566885 source:c:\users\blue sky\desktop\lab12\1task\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+
+1688883776 source:c:\users\blue sky\desktop\pf\lab12\full_game_tic_tac_toe\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+
+1688883776 source:c:\users\blue sky\desktop\2nd semester\pf\games\full_game_tic_tac_toe\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+
